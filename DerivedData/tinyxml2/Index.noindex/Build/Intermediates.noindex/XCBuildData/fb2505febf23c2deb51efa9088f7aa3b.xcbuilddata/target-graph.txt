@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'tinyxml2' in project 'tinyxml2' (no dependencies)
